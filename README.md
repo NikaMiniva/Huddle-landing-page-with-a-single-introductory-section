@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Live Site URL](https://nika-huddle-landing-page.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-bootstrap5-html-and-css-S12etrSI5](https://www.frontendmentor.io/solutions/responsive-landing-page-using-bootstrap5-html-and-css-S12etrSI5)
+- Live Site URL: [https://nika-huddle-landing-page.netlify.app/](https://nika-huddle-landing-page.netlify.app/)
 
 ## My process
 
