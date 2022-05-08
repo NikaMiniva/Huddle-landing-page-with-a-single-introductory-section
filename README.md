@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [What I learned](#notes)
 - [Author](#author)
 
 ## Overview
@@ -42,7 +42,7 @@ Users should be able to:
 - CSS
 - HTML
 
-### What I learned
+### Notes
 
 I wanted to try Bootstrap so I decided to solve this challenge with it. Not that I think this is the best option for this project, but definetely I'll keep using bootstrap for bigger projects. 
 This is my first project with bootstrap but also my first project working alone (since I've just started to study web dev.), so feel free to make your comments and share your knowledge.
