@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#notes)
+  - [Notes](#notes)
 - [Author](#author)
 
 ## Overview
