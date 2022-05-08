@@ -51,5 +51,3 @@ This is my first project with bootstrap but also my first project working alone 
 
 - Website - [NikaMiniva](https://github.com/NikaMiniva)
 - Frontend Mentor - [@NikaMiniva](https://www.frontendmentor.io/profile/NikaMiniva)
-- Twitter - [@NikaMiniva](https://www.twitter.com/NikaMiniva)
-- Instagram - [@NikaMinva](https://www.instagram.com/nikaminiva/)
