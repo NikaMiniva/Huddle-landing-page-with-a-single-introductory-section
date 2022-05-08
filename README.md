@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Live Site URL](https://nika-huddle-landing-page.netlify.app/)
 
 ## My process
 
